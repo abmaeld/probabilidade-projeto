@@ -2,7 +2,7 @@
 Trabalho de Probabilidade, 2018.2
 Repositório para guardar o trabalho de probabilidade com Ivanovitch para a segunda unidade
 
-Endereço para o Vídeo: 
+Endereço para o Vídeo: https://youtu.be/Ix-5Gw2pcXs
 
 Insights acerca da disciplina de Probabilidade (IMD0033) nos semestres 2016.2, 2017.1 & 2017.2
 
