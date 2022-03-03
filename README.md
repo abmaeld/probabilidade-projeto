@@ -1,5 +1,4 @@
-# PROB
-Trabalho de Probabilidade, 2018.2
+# Trabalho de Probabilidade, 2018.2
 
 Repositório para guardar o trabalho de probabilidade com Ivanovitch para a terceira unidade do semestre 2018.2
 
